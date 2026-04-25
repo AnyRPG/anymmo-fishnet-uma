@@ -20,5 +20,7 @@ MonoBehaviour:
   useRegionalDescription: 0
   resourceDescriptionProfile: 
   optionalOverride: 0
-  dontDestroyOnLoadPrefabs: {fileID: 2690315189126446326, guid: e9a75a7c38203864e944ca20cfa9d986,
-    type: 3}
+  dontDestroyOnLoadPrefabsList:
+  - {fileID: 2690315189126446326, guid: e9a75a7c38203864e944ca20cfa9d986, type: 3}
+  - {fileID: 5335538509933556486, guid: db855ca5351c4c84697574bb11784769, type: 3}
+  overrideExtension: AnyMMO Demo Base
